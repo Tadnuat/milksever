@@ -1,0 +1,1222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\milkstore.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|solutionrelative:milkstore.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2202D7C-2457-41A2-915B-7F3D1D40EC2C}|MilkStore.Repository\\MilkStore.Repo.csproj|D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\milkstore.repository\\entities\\deliveryman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2202D7C-2457-41A2-915B-7F3D1D40EC2C}|MilkStore.Repository\\MilkStore.Repo.csproj|solutionrelative:milkstore.repository\\entities\\deliveryman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\milkstore.api\\models\\revenuemodel\\requestdailyrevenuemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|solutionrelative:milkstore.api\\models\\revenuemodel\\requestdailyrevenuemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\milkstore.api\\models\\paymentmodel\\requestcreatepaymentlmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|solutionrelative:milkstore.api\\models\\paymentmodel\\requestcreatepaymentlmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|d:\\swp391\\milkstoreserver1\\milkstoreserver1\\milkstore.api\\controllers\\vnpaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|solutionrelative:milkstore.api\\controllers\\vnpaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\milkstore.api\\models\\ordermodel\\requestsearchordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|solutionrelative:milkstore.api\\models\\ordermodel\\requestsearchordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\milkstore.api\\models\\revenuemodel\\responsedailyrevenuemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|solutionrelative:milkstore.api\\models\\revenuemodel\\responsedailyrevenuemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\milkstore.api\\models\\vnpaymodel\\ivnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|solutionrelative:milkstore.api\\models\\vnpaymodel\\ivnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\milkstore.api\\models\\vnpaymodel\\vnpaymentresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|solutionrelative:milkstore.api\\models\\vnpaymodel\\vnpaymentresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\milkstore.api\\models\\vnpaymodel\\vnpaysettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|solutionrelative:milkstore.api\\models\\vnpaymodel\\vnpaysettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\milkstore.api\\models\\vnpaymodel\\vnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|solutionrelative:milkstore.api\\models\\vnpaymodel\\vnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\milkstore.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|solutionrelative:milkstore.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\milkstore.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|solutionrelative:milkstore.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\milkstore.api\\models\\ordermodel\\requestcreateordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|solutionrelative:milkstore.api\\models\\ordermodel\\requestcreateordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2202D7C-2457-41A2-915B-7F3D1D40EC2C}|MilkStore.Repository\\MilkStore.Repo.csproj|D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\milkstore.repository\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2202D7C-2457-41A2-915B-7F3D1D40EC2C}|MilkStore.Repository\\MilkStore.Repo.csproj|solutionrelative:milkstore.repository\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\milkstore.api\\vnpaylibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|solutionrelative:milkstore.api\\vnpaylibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\milkstore.api\\models\\ordermodel\\requestupdateordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|solutionrelative:milkstore.api\\models\\ordermodel\\requestupdateordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\milkstore.api\\models\\ordermodel\\requestdaterangemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|solutionrelative:milkstore.api\\models\\ordermodel\\requestdaterangemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\milkstore.api\\models\\productitemmodel\\requestcreateproductitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|solutionrelative:milkstore.api\\models\\productitemmodel\\requestcreateproductitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\milkstore.api\\models\\paymentmodel\\requestupdatepaymentlmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|solutionrelative:milkstore.api\\models\\paymentmodel\\requestupdatepaymentlmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\milkstore.api\\controllers\\revenuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|solutionrelative:milkstore.api\\controllers\\revenuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\milkstore.api\\models\\revenuemodel\\requestrevenuerangemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|solutionrelative:milkstore.api\\models\\revenuemodel\\requestrevenuerangemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\milkstore.api\\models\\ordermodel\\responseordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|solutionrelative:milkstore.api\\models\\ordermodel\\responseordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\milkstore.api\\models\\orderdetailmodel\\requestcreateorderdetailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|solutionrelative:milkstore.api\\models\\orderdetailmodel\\requestcreateorderdetailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\milkstore.api\\models\\revenuemodel\\responseweeklyrevenuemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|solutionrelative:milkstore.api\\models\\revenuemodel\\responseweeklyrevenuemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\milkstore.api\\models\\revenuemodel\\responserevenuemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|solutionrelative:milkstore.api\\models\\revenuemodel\\responserevenuemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\milkstore.api\\models\\revenuemodel\\responsemonthlyrevenuemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|solutionrelative:milkstore.api\\models\\revenuemodel\\responsemonthlyrevenuemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\milkstore.api\\models\\revenuemodel\\requestweeklyrevenuemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|solutionrelative:milkstore.api\\models\\revenuemodel\\requestweeklyrevenuemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\milkstore.api\\models\\revenuemodel\\requestmonthlyrevenuemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|solutionrelative:milkstore.api\\models\\revenuemodel\\requestmonthlyrevenuemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\milkstore.api\\controllers\\storagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|solutionrelative:milkstore.api\\controllers\\storagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\milkstore.api\\controllers\\productitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|solutionrelative:milkstore.api\\controllers\\productitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\milkstore.api\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|solutionrelative:milkstore.api\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\milkstore.api\\controllers\\orderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|solutionrelative:milkstore.api\\controllers\\orderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\milkstore.api\\models\\productitemmodel\\requestsearchproductitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|solutionrelative:milkstore.api\\models\\productitemmodel\\requestsearchproductitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\milkstore.api\\models\\storagemodel\\requestsearchstoragemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|solutionrelative:milkstore.api\\models\\storagemodel\\requestsearchstoragemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2202D7C-2457-41A2-915B-7F3D1D40EC2C}|MilkStore.Repository\\MilkStore.Repo.csproj|D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\milkstore.repository\\entities\\productitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2202D7C-2457-41A2-915B-7F3D1D40EC2C}|MilkStore.Repository\\MilkStore.Repo.csproj|solutionrelative:milkstore.repository\\entities\\productitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2202D7C-2457-41A2-915B-7F3D1D40EC2C}|MilkStore.Repository\\MilkStore.Repo.csproj|D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\milkstore.repository\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2202D7C-2457-41A2-915B-7F3D1D40EC2C}|MilkStore.Repository\\MilkStore.Repo.csproj|solutionrelative:milkstore.repository\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\milkstore.api\\models\\productitemmodel\\response productitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|solutionrelative:milkstore.api\\models\\productitemmodel\\response productitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\milkstore.api\\models\\productitemmodel\\requestupdateproductitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|solutionrelative:milkstore.api\\models\\productitemmodel\\requestupdateproductitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\milkstore.api\\models\\storagemodel\\responsestoragemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|solutionrelative:milkstore.api\\models\\storagemodel\\responsestoragemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\milkstore.api\\models\\storagemodel\\requestupdatestoragemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|solutionrelative:milkstore.api\\models\\storagemodel\\requestupdatestoragemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2202D7C-2457-41A2-915B-7F3D1D40EC2C}|MilkStore.Repository\\MilkStore.Repo.csproj|D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\milkstore.repository\\entities\\milkcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2202D7C-2457-41A2-915B-7F3D1D40EC2C}|MilkStore.Repository\\MilkStore.Repo.csproj|solutionrelative:milkstore.repository\\entities\\milkcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\milkstore.api\\models\\storagemodel\\requestcreatestoragemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|solutionrelative:milkstore.api\\models\\storagemodel\\requestcreatestoragemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\milkstore.api\\models\\orderdetailmodel\\requestupdateorderdetailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|solutionrelative:milkstore.api\\models\\orderdetailmodel\\requestupdateorderdetailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2202D7C-2457-41A2-915B-7F3D1D40EC2C}|MilkStore.Repository\\MilkStore.Repo.csproj|D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\milkstore.repository\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2202D7C-2457-41A2-915B-7F3D1D40EC2C}|MilkStore.Repository\\MilkStore.Repo.csproj|solutionrelative:milkstore.repository\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2202D7C-2457-41A2-915B-7F3D1D40EC2C}|MilkStore.Repository\\MilkStore.Repo.csproj|D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\milkstore.repository\\entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2202D7C-2457-41A2-915B-7F3D1D40EC2C}|MilkStore.Repository\\MilkStore.Repo.csproj|solutionrelative:milkstore.repository\\entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\milkstore.api\\models\\paymentmodel\\responsepaymentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|solutionrelative:milkstore.api\\models\\paymentmodel\\responsepaymentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\milkstore.api\\models\\orderdetailmodel\\responseorderdetailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|solutionrelative:milkstore.api\\models\\orderdetailmodel\\responseorderdetailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2202D7C-2457-41A2-915B-7F3D1D40EC2C}|MilkStore.Repository\\MilkStore.Repo.csproj|D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\milkstore.repository\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2202D7C-2457-41A2-915B-7F3D1D40EC2C}|MilkStore.Repository\\MilkStore.Repo.csproj|solutionrelative:milkstore.repository\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\milkstore.api\\models\\ordermodel\\responsesearchordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|solutionrelative:milkstore.api\\models\\ordermodel\\responsesearchordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2202D7C-2457-41A2-915B-7F3D1D40EC2C}|MilkStore.Repository\\MilkStore.Repo.csproj|D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\milkstore.repository\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2202D7C-2457-41A2-915B-7F3D1D40EC2C}|MilkStore.Repository\\MilkStore.Repo.csproj|solutionrelative:milkstore.repository\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\milkstore.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|solutionrelative:milkstore.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\milkstore.api\\controllers\\deliverymancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|solutionrelative:milkstore.api\\controllers\\deliverymancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\milkstore.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|solutionrelative:milkstore.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2202D7C-2457-41A2-915B-7F3D1D40EC2C}|MilkStore.Repository\\MilkStore.Repo.csproj|D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\milkstore.repository\\entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2202D7C-2457-41A2-915B-7F3D1D40EC2C}|MilkStore.Repository\\MilkStore.Repo.csproj|solutionrelative:milkstore.repository\\entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2202D7C-2457-41A2-915B-7F3D1D40EC2C}|MilkStore.Repository\\MilkStore.Repo.csproj|D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\milkstore.repository\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2202D7C-2457-41A2-915B-7F3D1D40EC2C}|MilkStore.Repository\\MilkStore.Repo.csproj|solutionrelative:milkstore.repository\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2202D7C-2457-41A2-915B-7F3D1D40EC2C}|MilkStore.Repository\\MilkStore.Repo.csproj|D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\milkstore.repository\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2202D7C-2457-41A2-915B-7F3D1D40EC2C}|MilkStore.Repository\\MilkStore.Repo.csproj|solutionrelative:milkstore.repository\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\milkstore.api\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|solutionrelative:milkstore.api\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\milkstore.api\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|solutionrelative:milkstore.api\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\milkstore.api\\controllers\\brandmilkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|solutionrelative:milkstore.api\\controllers\\brandmilkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\milkstore.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|solutionrelative:milkstore.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\milkstore.api\\controllers\\agerangecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|solutionrelative:milkstore.api\\controllers\\agerangecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2202D7C-2457-41A2-915B-7F3D1D40EC2C}|MilkStore.Repository\\MilkStore.Repo.csproj|D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\milkstore.repository\\entities\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2202D7C-2457-41A2-915B-7F3D1D40EC2C}|MilkStore.Repository\\MilkStore.Repo.csproj|solutionrelative:milkstore.repository\\entities\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2202D7C-2457-41A2-915B-7F3D1D40EC2C}|MilkStore.Repository\\MilkStore.Repo.csproj|D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\milkstore.repository\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2202D7C-2457-41A2-915B-7F3D1D40EC2C}|MilkStore.Repository\\MilkStore.Repo.csproj|solutionrelative:milkstore.repository\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2202D7C-2457-41A2-915B-7F3D1D40EC2C}|MilkStore.Repository\\MilkStore.Repo.csproj|D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\milkstore.repository\\entities\\brandmilk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2202D7C-2457-41A2-915B-7F3D1D40EC2C}|MilkStore.Repository\\MilkStore.Repo.csproj|solutionrelative:milkstore.repository\\entities\\brandmilk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2202D7C-2457-41A2-915B-7F3D1D40EC2C}|MilkStore.Repository\\MilkStore.Repo.csproj|D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\milkstore.repository\\entities\\agerange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2202D7C-2457-41A2-915B-7F3D1D40EC2C}|MilkStore.Repository\\MilkStore.Repo.csproj|solutionrelative:milkstore.repository\\entities\\agerange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\milkstore.api\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|solutionrelative:milkstore.api\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\milkstore.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|solutionrelative:milkstore.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\milkstore.api\\models\\loginmodel\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|solutionrelative:milkstore.api\\models\\loginmodel\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nh0kb\\AppData\\Local\\Temp\\Rar$DIa19360.34767.rartemp\\DeliveryManController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\milkstore.api\\models\\adminmodel\\requestcreateadminmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|solutionrelative:milkstore.api\\models\\adminmodel\\requestcreateadminmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nh0kb\\source\\repos\\SWP - 0607\\MilkStoreServer1\\MilkStore.Repository\\Entities\\MilkContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\milkstore.api\\models\\loginmodel\\loginmodelcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50F88CC-188E-4688-B977-37A989564837}|MilkStore.API\\MilkStore.API.csproj|solutionrelative:milkstore.api\\models\\loginmodel\\loginmodelcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VnPayController.cs",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Controllers\\VnPayController.cs",
+              "RelativeDocumentMoniker": "MilkStore.API\\Controllers\\VnPayController.cs",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Controllers\\VnPayController.cs",
+              "RelativeToolTip": "MilkStore.API\\Controllers\\VnPayController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T12:58:09.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "MilkStore.API\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "MilkStore.API\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAM0AAAAAAAAAAAAtwOgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T14:10:02.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\appsettings.json",
+              "RelativeDocumentMoniker": "MilkStore.API\\appsettings.json",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\appsettings.json",
+              "RelativeToolTip": "MilkStore.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-09T12:59:26.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResponseDailyRevenueModel.cs",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Models\\RevenueModel\\ResponseDailyRevenueModel.cs",
+              "RelativeDocumentMoniker": "MilkStore.API\\Models\\RevenueModel\\ResponseDailyRevenueModel.cs",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Models\\RevenueModel\\ResponseDailyRevenueModel.cs",
+              "RelativeToolTip": "MilkStore.API\\Models\\RevenueModel\\ResponseDailyRevenueModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T19:33:31.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RequestSearchOrderModel.cs",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Models\\OrderModel\\RequestSearchOrderModel.cs",
+              "RelativeDocumentMoniker": "MilkStore.API\\Models\\OrderModel\\RequestSearchOrderModel.cs",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Models\\OrderModel\\RequestSearchOrderModel.cs",
+              "RelativeToolTip": "MilkStore.API\\Models\\OrderModel\\RequestSearchOrderModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAowAQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T14:56:28.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RequestDailyRevenueModel.cs",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Models\\RevenueModel\\RequestDailyRevenueModel.cs",
+              "RelativeDocumentMoniker": "MilkStore.API\\Models\\RevenueModel\\RequestDailyRevenueModel.cs",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Models\\RevenueModel\\RequestDailyRevenueModel.cs",
+              "RelativeToolTip": "MilkStore.API\\Models\\RevenueModel\\RequestDailyRevenueModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T19:33:23.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeliveryMan.cs",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.Repository\\Entities\\DeliveryMan.cs",
+              "RelativeDocumentMoniker": "MilkStore.Repository\\Entities\\DeliveryMan.cs",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.Repository\\Entities\\DeliveryMan.cs",
+              "RelativeToolTip": "MilkStore.Repository\\Entities\\DeliveryMan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T16:31:50.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "MilkStore.API\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "MilkStore.API\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T16:33:45.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IVnPayService.cs",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Models\\VnPayModel\\IVnPayService.cs",
+              "RelativeDocumentMoniker": "MilkStore.API\\Models\\VnPayModel\\IVnPayService.cs",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Models\\VnPayModel\\IVnPayService.cs",
+              "RelativeToolTip": "MilkStore.API\\Models\\VnPayModel\\IVnPayService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T17:04:44.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VNPaySettings.cs",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Models\\VnPayModel\\VNPaySettings.cs",
+              "RelativeDocumentMoniker": "MilkStore.API\\Models\\VnPayModel\\VNPaySettings.cs",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Models\\VnPayModel\\VNPaySettings.cs",
+              "RelativeToolTip": "MilkStore.API\\Models\\VnPayModel\\VNPaySettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T17:04:48.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VnPayService.cs",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Models\\VnPayModel\\VnPayService.cs",
+              "RelativeDocumentMoniker": "MilkStore.API\\Models\\VnPayModel\\VnPayService.cs",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Models\\VnPayModel\\VnPayService.cs",
+              "RelativeToolTip": "MilkStore.API\\Models\\VnPayModel\\VnPayService.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAA8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T17:04:47.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RequestCreatePaymentlModel.cs",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Models\\PaymentModel\\RequestCreatePaymentlModel.cs",
+              "RelativeDocumentMoniker": "MilkStore.API\\Models\\PaymentModel\\RequestCreatePaymentlModel.cs",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Models\\PaymentModel\\RequestCreatePaymentlModel.cs",
+              "RelativeToolTip": "MilkStore.API\\Models\\PaymentModel\\RequestCreatePaymentlModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T14:57:59.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VnPaymentResponseModel.cs",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Models\\VnPayModel\\VnPaymentResponseModel.cs",
+              "RelativeDocumentMoniker": "MilkStore.API\\Models\\VnPayModel\\VnPaymentResponseModel.cs",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Models\\VnPayModel\\VnPaymentResponseModel.cs",
+              "RelativeToolTip": "MilkStore.API\\Models\\VnPayModel\\VnPaymentResponseModel.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T17:04:45.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RequestCreateOrderModel.cs",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Models\\OrderModel\\RequestCreateOrderModel.cs",
+              "RelativeDocumentMoniker": "MilkStore.API\\Models\\OrderModel\\RequestCreateOrderModel.cs",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Models\\OrderModel\\RequestCreateOrderModel.cs",
+              "RelativeToolTip": "MilkStore.API\\Models\\OrderModel\\RequestCreateOrderModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T14:55:59.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.Repository\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "MilkStore.Repository\\Entities\\Order.cs",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.Repository\\Entities\\Order.cs",
+              "RelativeToolTip": "MilkStore.Repository\\Entities\\Order.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA0wAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T14:09:31.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "VnPayLibrary.cs",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\VnPayLibrary.cs",
+              "RelativeDocumentMoniker": "MilkStore.API\\VnPayLibrary.cs",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\VnPayLibrary.cs",
+              "RelativeToolTip": "MilkStore.API\\VnPayLibrary.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T20:23:55.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RequestDateRangeModel.cs",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Models\\OrderModel\\RequestDateRangeModel.cs",
+              "RelativeDocumentMoniker": "MilkStore.API\\Models\\OrderModel\\RequestDateRangeModel.cs",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Models\\OrderModel\\RequestDateRangeModel.cs",
+              "RelativeToolTip": "MilkStore.API\\Models\\OrderModel\\RequestDateRangeModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T14:56:24.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RequestCreateProductItemModel.cs",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Models\\ProductItemModel\\RequestCreateProductItemModel.cs",
+              "RelativeDocumentMoniker": "MilkStore.API\\Models\\ProductItemModel\\RequestCreateProductItemModel.cs",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Models\\ProductItemModel\\RequestCreateProductItemModel.cs",
+              "RelativeToolTip": "MilkStore.API\\Models\\ProductItemModel\\RequestCreateProductItemModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA5wCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T15:00:42.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RequestUpdatePaymentlModel.cs",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Models\\PaymentModel\\RequestUpdatePaymentlModel.cs",
+              "RelativeDocumentMoniker": "MilkStore.API\\Models\\PaymentModel\\RequestUpdatePaymentlModel.cs",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Models\\PaymentModel\\RequestUpdatePaymentlModel.cs",
+              "RelativeToolTip": "MilkStore.API\\Models\\PaymentModel\\RequestUpdatePaymentlModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T14:58:06.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RevenueController.cs",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Controllers\\RevenueController.cs",
+              "RelativeDocumentMoniker": "MilkStore.API\\Controllers\\RevenueController.cs",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Controllers\\RevenueController.cs",
+              "RelativeToolTip": "MilkStore.API\\Controllers\\RevenueController.cs",
+              "ViewState": "AQIAAK4AAAAAAAAAAAD4v7kAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T14:09:07.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RequestRevenueRangeModel.cs",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Models\\RevenueModel\\RequestRevenueRangeModel.cs",
+              "RelativeDocumentMoniker": "MilkStore.API\\Models\\RevenueModel\\RequestRevenueRangeModel.cs",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Models\\RevenueModel\\RequestRevenueRangeModel.cs",
+              "RelativeToolTip": "MilkStore.API\\Models\\RevenueModel\\RequestRevenueRangeModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T19:33:26.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RequestUpdateOrderModel.cs",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Models\\OrderModel\\RequestUpdateOrderModel.cs",
+              "RelativeDocumentMoniker": "MilkStore.API\\Models\\OrderModel\\RequestUpdateOrderModel.cs",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Models\\OrderModel\\RequestUpdateOrderModel.cs",
+              "RelativeToolTip": "MilkStore.API\\Models\\OrderModel\\RequestUpdateOrderModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T14:56:37.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ResponseOrderModel.cs",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Models\\OrderModel\\ResponseOrderModel.cs",
+              "RelativeDocumentMoniker": "MilkStore.API\\Models\\OrderModel\\ResponseOrderModel.cs",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Models\\OrderModel\\ResponseOrderModel.cs",
+              "RelativeToolTip": "MilkStore.API\\Models\\OrderModel\\ResponseOrderModel.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA9wBkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T14:56:52.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RequestCreateOrderDetailModel.cs",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Models\\OrderDetailModel\\RequestCreateOrderDetailModel.cs",
+              "RelativeDocumentMoniker": "MilkStore.API\\Models\\OrderDetailModel\\RequestCreateOrderDetailModel.cs",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Models\\OrderDetailModel\\RequestCreateOrderDetailModel.cs",
+              "RelativeToolTip": "MilkStore.API\\Models\\OrderDetailModel\\RequestCreateOrderDetailModel.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA9wBcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T14:54:31.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ResponseWeeklyRevenueModel.cs",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Models\\RevenueModel\\ResponseWeeklyRevenueModel.cs",
+              "RelativeDocumentMoniker": "MilkStore.API\\Models\\RevenueModel\\ResponseWeeklyRevenueModel.cs",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Models\\RevenueModel\\ResponseWeeklyRevenueModel.cs",
+              "RelativeToolTip": "MilkStore.API\\Models\\RevenueModel\\ResponseWeeklyRevenueModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T19:33:39.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ResponseMonthlyRevenueModel.cs",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Models\\RevenueModel\\ResponseMonthlyRevenueModel.cs",
+              "RelativeDocumentMoniker": "MilkStore.API\\Models\\RevenueModel\\ResponseMonthlyRevenueModel.cs",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Models\\RevenueModel\\ResponseMonthlyRevenueModel.cs",
+              "RelativeToolTip": "MilkStore.API\\Models\\RevenueModel\\ResponseMonthlyRevenueModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T15:40:09.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RequestWeeklyRevenueModel.cs",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Models\\RevenueModel\\RequestWeeklyRevenueModel.cs",
+              "RelativeDocumentMoniker": "MilkStore.API\\Models\\RevenueModel\\RequestWeeklyRevenueModel.cs",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Models\\RevenueModel\\RequestWeeklyRevenueModel.cs",
+              "RelativeToolTip": "MilkStore.API\\Models\\RevenueModel\\RequestWeeklyRevenueModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T19:33:27.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RequestMonthlyRevenueModel.cs",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Models\\RevenueModel\\RequestMonthlyRevenueModel.cs",
+              "RelativeDocumentMoniker": "MilkStore.API\\Models\\RevenueModel\\RequestMonthlyRevenueModel.cs",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Models\\RevenueModel\\RequestMonthlyRevenueModel.cs",
+              "RelativeToolTip": "MilkStore.API\\Models\\RevenueModel\\RequestMonthlyRevenueModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T19:33:25.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ResponseRevenueModel.cs",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Models\\RevenueModel\\ResponseRevenueModel.cs",
+              "RelativeDocumentMoniker": "MilkStore.API\\Models\\RevenueModel\\ResponseRevenueModel.cs",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Models\\RevenueModel\\ResponseRevenueModel.cs",
+              "RelativeToolTip": "MilkStore.API\\Models\\RevenueModel\\ResponseRevenueModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T15:40:08.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ProductItemController.cs",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Controllers\\ProductItemController.cs",
+              "RelativeDocumentMoniker": "MilkStore.API\\Controllers\\ProductItemController.cs",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Controllers\\ProductItemController.cs",
+              "RelativeToolTip": "MilkStore.API\\Controllers\\ProductItemController.cs",
+              "ViewState": "AQIAAJ8AAAAAAAAAAAAIwJkAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T12:21:27.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "RequestSearchProductItemModel.cs",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Models\\ProductItemModel\\RequestSearchProductItemModel.cs",
+              "RelativeDocumentMoniker": "MilkStore.API\\Models\\ProductItemModel\\RequestSearchProductItemModel.cs",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Models\\ProductItemModel\\RequestSearchProductItemModel.cs",
+              "RelativeToolTip": "MilkStore.API\\Models\\ProductItemModel\\RequestSearchProductItemModel.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA8wBMAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T08:36:02.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "OrderDetailController.cs",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Controllers\\OrderDetailController.cs",
+              "RelativeDocumentMoniker": "MilkStore.API\\Controllers\\OrderDetailController.cs",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Controllers\\OrderDetailController.cs",
+              "RelativeToolTip": "MilkStore.API\\Controllers\\OrderDetailController.cs",
+              "ViewState": "AQIAAI8AAAAAAAAAAAAgwDQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T13:46:52.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "MilkStore.API\\Controllers\\PaymentController.cs",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "MilkStore.API\\Controllers\\PaymentController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAGYAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T08:34:38.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "StorageController.cs",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Controllers\\StorageController.cs",
+              "RelativeDocumentMoniker": "MilkStore.API\\Controllers\\StorageController.cs",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Controllers\\StorageController.cs",
+              "RelativeToolTip": "MilkStore.API\\Controllers\\StorageController.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAmwH4AAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T16:32:25.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "RequestSearchStorageModel.cs",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Models\\StorageModel\\RequestSearchStorageModel.cs",
+              "RelativeDocumentMoniker": "MilkStore.API\\Models\\StorageModel\\RequestSearchStorageModel.cs",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Models\\StorageModel\\RequestSearchStorageModel.cs",
+              "RelativeToolTip": "MilkStore.API\\Models\\StorageModel\\RequestSearchStorageModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T15:03:27.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ProductItem.cs",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.Repository\\Entities\\ProductItem.cs",
+              "RelativeDocumentMoniker": "MilkStore.Repository\\Entities\\ProductItem.cs",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.Repository\\Entities\\ProductItem.cs",
+              "RelativeToolTip": "MilkStore.Repository\\Entities\\ProductItem.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAswDEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T10:08:28.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.Repository\\Repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "MilkStore.Repository\\Repository\\GenericRepository.cs",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.Repository\\Repository\\GenericRepository.cs",
+              "RelativeToolTip": "MilkStore.Repository\\Repository\\GenericRepository.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAowJgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T13:24:48.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Response ProductItemModel.cs",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Models\\ProductItemModel\\Response ProductItemModel.cs",
+              "RelativeDocumentMoniker": "MilkStore.API\\Models\\ProductItemModel\\Response ProductItemModel.cs",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Models\\ProductItemModel\\Response ProductItemModel.cs",
+              "RelativeToolTip": "MilkStore.API\\Models\\ProductItemModel\\Response ProductItemModel.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAswCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T15:01:17.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "RequestUpdateProductItemModel.cs",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Models\\ProductItemModel\\RequestUpdateProductItemModel.cs",
+              "RelativeDocumentMoniker": "MilkStore.API\\Models\\ProductItemModel\\RequestUpdateProductItemModel.cs",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Models\\ProductItemModel\\RequestUpdateProductItemModel.cs",
+              "RelativeToolTip": "MilkStore.API\\Models\\ProductItemModel\\RequestUpdateProductItemModel.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAswCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T15:01:09.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ResponseStorageModel.cs",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Models\\StorageModel\\ResponseStorageModel.cs",
+              "RelativeDocumentMoniker": "MilkStore.API\\Models\\StorageModel\\ResponseStorageModel.cs",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Models\\StorageModel\\ResponseStorageModel.cs",
+              "RelativeToolTip": "MilkStore.API\\Models\\StorageModel\\ResponseStorageModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T15:03:32.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "RequestUpdateStorageModel.cs",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Models\\StorageModel\\RequestUpdateStorageModel.cs",
+              "RelativeDocumentMoniker": "MilkStore.API\\Models\\StorageModel\\RequestUpdateStorageModel.cs",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Models\\StorageModel\\RequestUpdateStorageModel.cs",
+              "RelativeToolTip": "MilkStore.API\\Models\\StorageModel\\RequestUpdateStorageModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T15:03:29.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "MilkContext.cs",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.Repository\\Entities\\MilkContext.cs",
+              "RelativeDocumentMoniker": "MilkStore.Repository\\Entities\\MilkContext.cs",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.Repository\\Entities\\MilkContext.cs",
+              "RelativeToolTip": "MilkStore.Repository\\Entities\\MilkContext.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAwwCIAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T14:10:33.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "RequestCreateStorageModel.cs",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Models\\StorageModel\\RequestCreateStorageModel.cs",
+              "RelativeDocumentMoniker": "MilkStore.API\\Models\\StorageModel\\RequestCreateStorageModel.cs",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Models\\StorageModel\\RequestCreateStorageModel.cs",
+              "RelativeToolTip": "MilkStore.API\\Models\\StorageModel\\RequestCreateStorageModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T15:03:22.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "RequestUpdateOrderDetailModel.cs",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Models\\OrderDetailModel\\RequestUpdateOrderDetailModel.cs",
+              "RelativeDocumentMoniker": "MilkStore.API\\Models\\OrderDetailModel\\RequestUpdateOrderDetailModel.cs",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Models\\OrderDetailModel\\RequestUpdateOrderDetailModel.cs",
+              "RelativeToolTip": "MilkStore.API\\Models\\OrderDetailModel\\RequestUpdateOrderDetailModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T14:55:10.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.Repository\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "MilkStore.Repository\\Entities\\Customer.cs",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.Repository\\Entities\\Customer.cs",
+              "RelativeToolTip": "MilkStore.Repository\\Entities\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T10:07:50.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.Repository\\Entities\\Admin.cs",
+              "RelativeDocumentMoniker": "MilkStore.Repository\\Entities\\Admin.cs",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.Repository\\Entities\\Admin.cs",
+              "RelativeToolTip": "MilkStore.Repository\\Entities\\Admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T16:47:56.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ResponsePaymentModel.cs",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Models\\PaymentModel\\ResponsePaymentModel.cs",
+              "RelativeDocumentMoniker": "MilkStore.API\\Models\\PaymentModel\\ResponsePaymentModel.cs",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Models\\PaymentModel\\ResponsePaymentModel.cs",
+              "RelativeToolTip": "MilkStore.API\\Models\\PaymentModel\\ResponsePaymentModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T14:58:11.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ResponseOrderDetailModel.cs",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Models\\OrderDetailModel\\ResponseOrderDetailModel.cs",
+              "RelativeDocumentMoniker": "MilkStore.API\\Models\\OrderDetailModel\\ResponseOrderDetailModel.cs",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Models\\OrderDetailModel\\ResponseOrderDetailModel.cs",
+              "RelativeToolTip": "MilkStore.API\\Models\\OrderDetailModel\\ResponseOrderDetailModel.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAswBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T14:55:28.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.Repository\\Entities\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "MilkStore.Repository\\Entities\\OrderDetail.cs",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.Repository\\Entities\\OrderDetail.cs",
+              "RelativeToolTip": "MilkStore.Repository\\Entities\\OrderDetail.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAcwB8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T10:08:16.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ResponseSearchOrderModel.cs",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Models\\OrderModel\\ResponseSearchOrderModel.cs",
+              "RelativeDocumentMoniker": "MilkStore.API\\Models\\OrderModel\\ResponseSearchOrderModel.cs",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Models\\OrderModel\\ResponseSearchOrderModel.cs",
+              "RelativeToolTip": "MilkStore.API\\Models\\OrderModel\\ResponseSearchOrderModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T14:57:08.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.Repository\\Entities\\Payment.cs",
+              "RelativeDocumentMoniker": "MilkStore.Repository\\Entities\\Payment.cs",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.Repository\\Entities\\Payment.cs",
+              "RelativeToolTip": "MilkStore.Repository\\Entities\\Payment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T10:08:25.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "MilkStore.API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "MilkStore.API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T14:47:19.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "DeliveryManController.cs",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Controllers\\DeliveryManController.cs",
+              "RelativeDocumentMoniker": "MilkStore.API\\Controllers\\DeliveryManController.cs",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Controllers\\DeliveryManController.cs",
+              "RelativeToolTip": "MilkStore.API\\Controllers\\DeliveryManController.cs",
+              "ViewState": "AQIAALIAAAAAAAAAAIAwwL8AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T16:31:56.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "MilkStore.API\\Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "MilkStore.API\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T08:07:19.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Country.cs",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.Repository\\Entities\\Country.cs",
+              "RelativeDocumentMoniker": "MilkStore.Repository\\Entities\\Country.cs",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.Repository\\Entities\\Country.cs",
+              "RelativeToolTip": "MilkStore.Repository\\Entities\\Country.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T10:07:45.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.Repository\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "MilkStore.Repository\\UnitOfWork\\IUnitOfWork.cs",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.Repository\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeToolTip": "MilkStore.Repository\\UnitOfWork\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T13:24:02.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.Repository\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "MilkStore.Repository\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.Repository\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "MilkStore.Repository\\UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T13:24:34.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "CompanyController.cs",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Controllers\\CompanyController.cs",
+              "RelativeDocumentMoniker": "MilkStore.API\\Controllers\\CompanyController.cs",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Controllers\\CompanyController.cs",
+              "RelativeToolTip": "MilkStore.API\\Controllers\\CompanyController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwA8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T13:45:59.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "BrandMilkController.cs",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Controllers\\BrandMilkController.cs",
+              "RelativeDocumentMoniker": "MilkStore.API\\Controllers\\BrandMilkController.cs",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Controllers\\BrandMilkController.cs",
+              "RelativeToolTip": "MilkStore.API\\Controllers\\BrandMilkController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T02:05:08.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "MilkStore.API\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "MilkStore.API\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T12:18:53.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "CountryController.cs",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Controllers\\CountryController.cs",
+              "RelativeDocumentMoniker": "MilkStore.API\\Controllers\\CountryController.cs",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Controllers\\CountryController.cs",
+              "RelativeToolTip": "MilkStore.API\\Controllers\\CountryController.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAlwEYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T13:46:08.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "AgeRangeController.cs",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Controllers\\AgeRangeController.cs",
+              "RelativeDocumentMoniker": "MilkStore.API\\Controllers\\AgeRangeController.cs",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Controllers\\AgeRangeController.cs",
+              "RelativeToolTip": "MilkStore.API\\Controllers\\AgeRangeController.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAhwG0AAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T15:34:40.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Storage.cs",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.Repository\\Entities\\Storage.cs",
+              "RelativeDocumentMoniker": "MilkStore.Repository\\Entities\\Storage.cs",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.Repository\\Entities\\Storage.cs",
+              "RelativeToolTip": "MilkStore.Repository\\Entities\\Storage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T10:08:31.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Company.cs",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.Repository\\Entities\\Company.cs",
+              "RelativeDocumentMoniker": "MilkStore.Repository\\Entities\\Company.cs",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.Repository\\Entities\\Company.cs",
+              "RelativeToolTip": "MilkStore.Repository\\Entities\\Company.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T10:07:42.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "BrandMilk.cs",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.Repository\\Entities\\BrandMilk.cs",
+              "RelativeDocumentMoniker": "MilkStore.Repository\\Entities\\BrandMilk.cs",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.Repository\\Entities\\BrandMilk.cs",
+              "RelativeToolTip": "MilkStore.Repository\\Entities\\BrandMilk.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T10:07:38.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "AgeRange.cs",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.Repository\\Entities\\AgeRange.cs",
+              "RelativeDocumentMoniker": "MilkStore.Repository\\Entities\\AgeRange.cs",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.Repository\\Entities\\AgeRange.cs",
+              "RelativeToolTip": "MilkStore.Repository\\Entities\\AgeRange.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T10:07:33.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\TokenService.cs",
+              "RelativeDocumentMoniker": "MilkStore.API\\TokenService.cs",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\TokenService.cs",
+              "RelativeToolTip": "MilkStore.API\\TokenService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwCEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:01:10.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Program.cs",
+              "RelativeDocumentMoniker": "MilkStore.API\\Program.cs",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Program.cs",
+              "RelativeToolTip": "MilkStore.API\\Program.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAWwHsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T13:30:42.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "LoginModelCustomer.cs",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Models\\LoginModel\\LoginModelCustomer.cs",
+              "RelativeDocumentMoniker": "MilkStore.API\\Models\\LoginModel\\LoginModelCustomer.cs",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Models\\LoginModel\\LoginModelCustomer.cs",
+              "RelativeToolTip": "MilkStore.API\\Models\\LoginModel\\LoginModelCustomer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T17:40:20.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Models\\LoginModel\\LoginModel.cs",
+              "RelativeDocumentMoniker": "MilkStore.API\\Models\\LoginModel\\LoginModel.cs",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Models\\LoginModel\\LoginModel.cs",
+              "RelativeToolTip": "MilkStore.API\\Models\\LoginModel\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T15:49:59.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "DeliveryManController.cs",
+              "DocumentMoniker": "C:\\Users\\nh0kb\\AppData\\Local\\Temp\\Rar$DIa19360.34767.rartemp\\DeliveryManController.cs",
+              "ToolTip": "C:\\Users\\nh0kb\\AppData\\Local\\Temp\\Rar$DIa19360.34767.rartemp\\DeliveryManController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T15:55:38.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "RequestCreateAdminModel.cs",
+              "DocumentMoniker": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Models\\AdminModel\\RequestCreateAdminModel.cs",
+              "RelativeDocumentMoniker": "MilkStore.API\\Models\\AdminModel\\RequestCreateAdminModel.cs",
+              "ToolTip": "D:\\SWP391\\MilkStoreServer1\\MilkStoreServer1\\MilkStore.API\\Models\\AdminModel\\RequestCreateAdminModel.cs",
+              "RelativeToolTip": "MilkStore.API\\Models\\AdminModel\\RequestCreateAdminModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T16:50:52.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "MilkContext.cs",
+              "DocumentMoniker": "C:\\Users\\nh0kb\\source\\repos\\SWP - 0607\\MilkStoreServer1\\MilkStore.Repository\\Entities\\MilkContext.cs",
+              "ToolTip": "C:\\Users\\nh0kb\\source\\repos\\SWP - 0607\\MilkStoreServer1\\MilkStore.Repository\\Entities\\MilkContext.cs",
+              "ViewState": "AQIAADABAAAAAAAAAAAAwEYBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T14:10:53.957Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

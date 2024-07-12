@@ -14,7 +14,7 @@ GO
 CREATE TABLE Country (
     CountryID INT PRIMARY KEY,
     CountryName NVARCHAR(MAX) NOT NULL,
-	Image NVARCHAR(MAX),
+	[Image] NVARCHAR(MAX),
     [Delete] INT NOT NULL DEFAULT 1
     
 );
@@ -23,9 +23,11 @@ CREATE TABLE Company (
     CompanyID INT PRIMARY KEY,
     CompanyName NVARCHAR(MAX) NOT NULL,
     CountryID INT,
-    FOREIGN KEY (CountryID) REFERENCES Country(CountryID),
-	Image NVARCHAR(MAX),
-    [Delete] INT NOT NULL DEFAULT 1
+	Phone VARCHAR(15) NOT NULL,
+	[Address] NVARCHAR(MAX) NOT NULL,
+	[Image] NVARCHAR(MAX),
+    [Delete] INT NOT NULL DEFAULT 1,
+	FOREIGN KEY (CountryID) REFERENCES Country(CountryID)
     
 );
 
@@ -33,9 +35,9 @@ CREATE TABLE BrandMilk (
     BrandMilkID INT PRIMARY KEY,
     BrandName NVARCHAR(MAX) NOT NULL,
     CompanyID INT,
-    FOREIGN KEY (CompanyID) REFERENCES Company(CompanyID),
-	Image NVARCHAR(MAX),
-    [Delete] INT NOT NULL DEFAULT 1
+	[Image] NVARCHAR(MAX),
+    [Delete] INT NOT NULL DEFAULT 1,
+	FOREIGN KEY (CompanyID) REFERENCES Company(CompanyID)
     
 );
 

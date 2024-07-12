@@ -1,7 +1,7 @@
 use Milk
 go
 
-INSERT INTO Country (CountryID, CountryName, Image, [Delete]) VALUES 
+INSERT INTO Country (CountryID, CountryName, [Image], [Delete]) VALUES 
 (1, N'Hoa Kỳ', 'https://media.istockphoto.com/id/1258164837/photo/bright-american-flag-waving-in-the-wind-with-vibrant-red-white-and-blue-colors-lit-by-the-sun.jpg?s=612x612&w=0&k=20&c=oJFY7AUvwp5NiCZ7vXWO1mcnfsOrSH63aznCqyzB2Ow=', 1),  
 (2, N'Thụy Điển', 'https://cdn.slidesharecdn.com/ss_thumbnails/swedenanditspoliticalsystem-101019132146-phpapp02-thumbnail.jpg?width=640&height=640&fit=bounds', 1), 
 (3, N'Pháp', 'https://eurotravel.com.vn/wp-content/uploads/2023/05/quoc-ky-nuoc-phap-hien-nay.jpg', 1), 
@@ -15,37 +15,38 @@ INSERT INTO Country (CountryID, CountryName, Image, [Delete]) VALUES
 (11, N'New Zealand', 'https://th.bing.com/th/id/OIP.8l4kJefdRxMwpYjLPtmqawHaGK?w=626&h=521&rs=1&pid=ImgDetMain', 1);
 
 
-INSERT INTO Company (CompanyID, CompanyName, CountryID, Image, [Delete]) VALUES 
-(1, N'Abbott Laboratories', 1, 'https://www.sobrato.com/wp-content/uploads/2018/12/SBTO_071_12_4451_Great_America.jpg', 1), 
-(2, N'Alpha Grow Company', 1, 'https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2020/12/11/861523/Anh-2-1.jpg', 1), 
-(3, N'Meiji Co', 4, 'https://cdn.tgdd.vn//News/1438381//sua-meiji-cua-nuoc-nao-co-tot-khong-nhung-dong-1-845x450.jpg', 1), 
-(4, N'Abbott Manufacturing Singapore Private Limited', 6, 'https://cdn.tgdd.vn/Files/2017/06/07/990395/gioi-thieu-tap-doan-abbott-1_800x400.jpg', 1), 
-(5, N'Vinamilk', 5, 'https://nqs.1cdn.vn/thumbs/720x480/2022/01/30/20210811091557-3220.png', 1), 
-(6, N'Wakodo', 4, 'https://kienthuckinhte.vn/uploads/vnm.JPG', 1), 
-(7, N'Royal Ausnz', 7, 'https://lavenderstudio.com.vn/wp-content/uploads/2019/02/word-image-4.png', 1), 
-(8, N'Morinaga Milk Industry', 4, 'https://morinaga-nf.com.vn/wp-content/uploads/2024/04/1K0A1340-1-2-scaled.jpg', 1), 
-(9, N'FrieslandCampina', 10, 'https://lh4.googleusercontent.com/proxy/r08XoC9W9gx0dltLMaW01ftHA2vpFzt4JXSqWpIYCki3JWRE3DpaVlEEgXBKtZ4rn--ZrCfKUpe69-gz', 1), 
-(10, N'VitaDairy', 5, 'https://vitadairy.vn/s/images/page/corp-information/news6.jpg', 1), 
-(11, N'Anmum', 11, 'https://quachobe.vn/wp-content/uploads/2020/03/Review-s%E1%BB%AFa-b%E1%BA%A7u-anmum-1.png', 1), 
-(12, N'Mead Johnson Nutrition', 1, 'https://cdn.tgdd.vn/Files/2017/08/01/1009013/gioi-thieu-cong-ty-mead-johnson-nutrition-1_800x427.jpg', 1), 
-(13, N'Namyang Dairy Products', 9, 'https://lh5.googleusercontent.com/proxy/rRa_Z8wjo3A9Tq4UTRgS1xk7xNrc5fc0B4Kq3sLxhVaNkHtikJ7WwS_um5UwuvqQzqUyeuXW1ikMnEm-PDC4aev1k2XtDfVLDwu4LEvSi5bys9Glh4TDPfLZRESHDAv34ohOh5RiEppV', 1), 
-(14, N'HOCHDORF Swiss Nutrition', 8, 'https://www.hochdorf.com/fileadmin/_processed_/6/5/csm_Gebaeude-Sulgen-Drohnenaufnahme_Nah_bearb_7ca5a387a4.jpeg', 1), 
-(15, N'Nutricare', 5, 'https://file1.dangcongsan.vn/data/0/images/2022/01/07/minhphuong/bc.jpg', 1),  
-(16, N'Eneright Nutrition', 5, 'https://gmp.com.vn/images/project/2021/06/28/large/nha-may-sua-eneright-tieu-chuan-gmp-haccp-nho_1624868795.png', 1), 
-(17, N'Nestlé', 8, 'https://cdn.tgdd.vn/Files/2017/06/09/991025/gioi-thieu-ve-tap-doan-nestle-11_800x400.jpg', 1),
-(18, N'Aiwado', 4, 'https://aiwado.com/image/catalog/Hoi%20thao/Aiwado-hoi-thao-hai-phong-2.jpg', 1), 
-(19, N'TGD', 5, 'https://media.sohuutritue.net.vn/files/nguyenhue/2022/11/04/t1-1342.jpg', 1), 
-(20, N'Royal Friesland Campina', 10, 'https://www.wur.nl/upload/13e3c201-ddb0-4521-8f55-6ad1ec92b3b0_frieslandcampinagebouw.png', 1), 
-(21, N'Glico', 4, 'https://suachobeyeu.vn/upload/images/thuong-hieu-glico-2.jpg', 1), 
-(22, N'Danone', 3, 'https://bestplus.vn/Userfiles/Upload/images/Danone%201.jpg', 1), 
-(23, N'Franci Việt Nam', 5, 'https://vodac.com.vn/wp-content/uploads/2019/12/Sequence-01.00_05_01_07.Still018.jpg', 1), 
-(24, N'Nutifood', 2, 'https://tst-vn.com/wp-content/uploads/2021/01/unnamed.jpg', 1),  
-(25, N'Nutriking', 5, 'https://akme.com.vn/uploads/plugin/product_items/11/nutriking.jpg', 1),
-(26, N'Nutricia', 10, 'https://imgs.vietnamnet.vn/Images/2011/08/25/14/20110825141205_vinamilk2.jpg', 1);
+INSERT INTO Company (CompanyID, CompanyName, CountryID, Phone, [Address], [Image], [Delete]) VALUES 
+(1, N'Abbott Laboratories', 1, '842838242006', N'100 Abbott Park Road, Abbott Park, IL 60064, Hoa Kỳ', 'https://www.sobrato.com/wp-content/uploads/2018/12/SBTO_071_12_4451_Great_America.jpg', 1), 
+(2, N'Alpha Grow Company', 1, '1800234567', N'123 Alpha St, New York, NY 10001, Hoa Kỳ', 'https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2020/12/11/861523/Anh-2-1.jpg', 1), 
+(3, N'Meiji Co', 4, '81312345678', N'Tầng 7, Tòa nhà PVFCCo, 43 Mạc Đĩnh Chi, Quận 1, TP. Hồ Chí Minh, Việt Nam', 'https://cdn.tgdd.vn//News/1438381//sua-meiji-cua-nuoc-nao-co-tot-khong-nhung-dong-1-845x450.jpg', 1), 
+(4, N'Abbott Manufacturing Singapore Private Limited', 6, '6512345678', N'Tầng 3, Tòa nhà Vincom Center, 72 Lê Thánh Tôn, Quận 1, TP. Hồ Chí Minh, Việt Nam', 'https://cdn.tgdd.vn/Files/2017/06/07/990395/gioi-thieu-tap-doan-abbott-1_800x400.jpg', 1), 
+(5, N'Vinamilk', 5, '02854155555', N'10 Tân Trào, Phường Tân Phú, Quận 7, TP. Hồ Chí Minh, Việt Nam', 'https://nqs.1cdn.vn/thumbs/720x480/2022/01/30/20210811091557-3220.png', 1), 
+(6, N'Wakodo', 4, '81323456789', N'Tầng 3, Tòa nhà Landmark 81, 720A Điện Biên Phủ, Quận Bình Thạnh, TP. Hồ Chí Minh, Việt Nam', 'https://kienthuckinhte.vn/uploads/vnm.JPG', 1), 
+(7, N'Royal Ausnz', 7, '61212345678', N'123 Sydney St, Sydney, NSW 2000, Úc', 'https://lavenderstudio.com.vn/wp-content/uploads/2019/02/word-image-4.png', 1), 
+(8, N'Morinaga Milk Industry', 4, '81334567890', N'Tầng 10, Tòa nhà Vietcombank, 5 Công trường Mê Linh, Quận 1, TP. Hồ Chí Minh, Việt Nam', 'https://morinaga-nf.com.vn/wp-content/uploads/2024/04/1K0A1340-1-2-scaled.jpg', 1), 
+(9, N'FrieslandCampina', 10, '312012345678', N'Stationsplein 4, 3818 LE Amersfoort, Hà Lan', 'https://lh4.googleusercontent.com/proxy/r08XoC9W9gx0dltLMaW01ftHA2vpFzt4JXSqWpIYCki3JWRE3DpaVlEEgXBKtZ4rn--ZrCfKUpe69-gz', 1), 
+(10, N'VitaDairy', 5, '1900633559', N'23 Trần Não, Bình An, Quận 2, TP. Hồ Chí Minh, Việt Nam', 'https://vitadairy.vn/s/images/page/corp-information/news6.jpg', 1), 
+(11, N'Anmum', 11, '64412345678', N'123 Wellington St, Wellington 6011, New Zealand', 'https://quachobe.vn/wp-content/uploads/2020/03/Review-s%E1%BB%AFa-b%E1%BA%A7u-anmum-1.png', 1), 
+(12, N'Mead Johnson Nutrition', 1, '1800345678', N'Tầng 9, Tòa nhà SCB, 242 Cống Quỳnh, Quận 1, TP. Hồ Chí Minh, Việt Nam', 'https://cdn.tgdd.vn/Files/2017/08/01/1009013/gioi-thieu-cong-ty-mead-johnson-nutrition-1_800x427.jpg', 1), 
+(13, N'Namyang Dairy Products', 9, '8212345678', N'123 Seoul St, Seoul, Hàn Quốc', 'https://lh5.googleusercontent.com/proxy/rRa_Z8wjo3A9Tq4UTRgS1xk7xNrc5fc0B4Kq3sLxhVaNkHtikJ7WwS_um5UwuvqQzqUyeuXW1ikMnEm-PDC4aev1k2XtDfVLDwu4LEvSi5bys9Glh4TDPfLZRESHDAv34ohOh5RiEppV', 1), 
+(14, N'HOCHDORF Swiss Nutrition', 8, '414112345678', N'Hinterdorfstrasse 9, 6281 Hochdorf, Thụy Sĩ', 'https://www.hochdorf.com/fileadmin/_processed_/6/5/csm_Gebaeude-Sulgen-Drohnenaufnahme_Nah_bearb_7ca5a387a4.jpeg', 1), 
+(15, N'Nutricare', 5, '18006011', N'2A Láng Hạ, Ba Đình, Hà Nội, Việt Nam', 'https://file1.dangcongsan.vn/data/0/images/2022/01/07/minhphuong/bc.jpg', 1),  
+(16, N'Eneright Nutrition', 5, '02473019696', N'123 Nguyễn Văn Trỗi, Quận Phú Nhuận, TP. Hồ Chí Minh, Việt Nam', 'https://gmp.com.vn/images/project/2021/06/28/large/nha-may-sua-eneright-tieu-chuan-gmp-haccp-nho_1624868795.png', 1), 
+(17, N'Nestlé', 8, '02839113737', N'Avenue Nestlé 55, 1800 Vevey, Thụy Sĩ', 'https://cdn.tgdd.vn/Files/2017/06/09/991025/gioi-thieu-ve-tap-doan-nestle-11_800x400.jpg', 1),
+(18, N'Aiwado', 4, '81345678901', N'Tầng 3, Tòa nhà Vietcombank, 5 Công trường Mê Linh, Quận 1, TP. Hồ Chí Minh, Việt Nam', 'https://aiwado.com/image/catalog/Hoi%20thao/Aiwado-hoi-thao-hai-phong-2.jpg', 1), 
+(19, N'TGD', 5, '8456789012', N'678 Lê Duẩn, Ba Đình, Hà Nội, Việt Nam', 'https://media.sohuutritue.net.vn/files/nguyenhue/2022/11/04/t1-1342.jpg', 1), 
+(20, N'Royal Friesland Campina', 10, '312056789012', N'123 Trường Sơn, Quận Tân Bình, TP. Hồ Chí Minh, Việt Nam', 'https://www.wur.nl/upload/13e3c201-ddb0-4521-8f55-6ad1ec92b3b0_frieslandcampinagebouw.png', 1), 
+(21, N'Glico', 4, '02439335399', N'6-13-1, Umeda, Kita-ku, Osaka, Nhật Bản', 'https://suachobeyeu.vn/upload/images/thuong-hieu-glico-2.jpg', 1), 
+(22, N'Danone', 3, '02836222661', N'17 Boulevard Haussmann, 75009 Paris, Pháp', 'https://bestplus.vn/Userfiles/Upload/images/Danone%201.jpg', 1), 
+(23, N'Franci Việt Nam', 5, '1900986858', N'234 Lê Lợi, Quận 1, TP. Hồ Chí Minh, Việt Nam', 'https://vodac.com.vn/wp-content/uploads/2019/12/Sequence-01.00_05_01_07.Still018.jpg', 1), 
+(24, N'Nutifood', 2, '842838255777', N'123 Hai Bà Trưng, Quận 3, TP. Hồ Chí Minh, Việt Nam', 'https://tst-vn.com/wp-content/uploads/2021/01/unnamed.jpg', 1),  
+(25, N'Nutriking', 5, '02473009386', N'789 Nguyễn Huệ, Quận 1, TP. Hồ Chí Minh, Việt Nam', 'https://akme.com.vn/uploads/plugin/product_items/11/nutriking.jpg', 1),
+(26, N'Nutricia', 10, '1900636325', N'Stationsplein 4, 3818 LE Amersfoort, Hà Lan', 'https://imgs.vietnamnet.vn/Images/2011/08/25/14/20110825141205_vinamilk2.jpg', 1);
 
 
 
-INSERT INTO BrandMilk (BrandMilkID, BrandName, CompanyID, Image, [Delete])
+
+INSERT INTO BrandMilk (BrandMilkID, BrandName, CompanyID, [Image], [Delete])
 VALUES
 (1, N'Similac', 1, 'https://cdn.tgdd.vn//News/0//logoSimilac-845x500.jpg', 1),
 (2, N'Alpha Grow', 2, 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmho_oDtGVH-iBsWaKm6Z1kjzWt_K9944BKQ&s', 1),
@@ -86,9 +87,8 @@ VALUES
 (2, N'Staff2@gmail.com', N'2', N'Staff', 1),
 (3, N'Staff3@gmail.com', N'3', N'Staff', 1),
 (4, N'Staff4@gmail.com', N'4', N'Staff', 1),
-(5, N'Staff5@gmail.com', N'staff123', N'Staff', 1),
-(6, N'bao@gmail.com', N'admin123', N'Admin', 1),
-(7, N'bao', N'admin', N'Admin', 1);
+(5, N'Staff5@gmail.com', N'5', N'Staff', 1),
+(6, N'bao@gmail.com', N'admin123', N'Admin', 1);
 
 
 INSERT INTO Customer (CustomerID, CustomerName, Email, Password, Phone, [Delete]) VALUES
